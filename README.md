@@ -3,7 +3,7 @@ React App that uses Express as back-end to GET images from AWS S3
 
 'run npm install' when at root cd react-express-redux
 
-'run npm install' again when at cd react-express-redux
+'run npm install' again when at cd client
 
 Once you have installed node modules on both
 
